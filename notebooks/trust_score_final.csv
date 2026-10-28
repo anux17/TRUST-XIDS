@@ -1,0 +1,5 @@
+model,DR_within_dataset_f1,GC_generalization_ratio,ES,trust_score,es_available
+Random Forest,0.8885,0.1198,0.859,0.652,True
+XGBoost,0.8887,0.1179,,0.5997,False
+SVM,0.8554,0.3132,,0.6521,False
+1D-CNN,0.731,0.2205,,0.5396,False

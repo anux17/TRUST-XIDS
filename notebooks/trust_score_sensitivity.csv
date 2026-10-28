@@ -1,0 +1,17 @@
+scenario,model,trust_score,es_available
+Base,Random Forest,0.6519900000000001,True
+Base,XGBoost,0.59965,False
+Base,SVM,0.652075,False
+Base,1D-CNN,0.5395625,False
+DR-heavy,Random Forest,0.7318099999999998,True
+DR-heavy,XGBoost,0.7174111111111112,False
+DR-heavy,SVM,0.7349111111111112,False
+DR-heavy,1D-CNN,0.6175555555555555,False
+GC-heavy,Random Forest,0.49824999999999997,True
+GC-heavy,XGBoost,0.40695,False
+GC-heavy,SVM,0.516525,False
+GC-heavy,1D-CNN,0.4119375,False
+Equal,Random Forest,0.6224333333333333,True
+Equal,XGBoost,0.5033000000000001,False
+Equal,SVM,0.5843,False
+Equal,1D-CNN,0.47575,False

@@ -1,0 +1,32 @@
+# Jupyter temporary files
+
+.ipynb_checkpoints/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+.venv/
+venv/
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# Large datasets
+
+data/raw/
+data/processed/
+
+# Trained model files
+
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.onnx
